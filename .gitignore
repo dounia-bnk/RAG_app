@@ -1,0 +1,7 @@
+.env
+/Scripts
+/include
+/lib
+/__pycache
+/etc
+/share
