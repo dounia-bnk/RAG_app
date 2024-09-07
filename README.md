@@ -11,6 +11,6 @@ Embeddings Creation: The project processes the PDF documents to create embedding
 Vector Database: Embeddings are stored in a Chroma vector database, allowing for efficient retrieval of relevant document sections.
 Conversational AI: The embeddings are fed into a ChatGPT model, enabling the chatbot to provide accurate and contextually relevant answers.
 User Interface: Gradio is used to create a simple, user-friendly interface for interacting with the chatbot.
-![alt text](./chat_capture)
-![alt text](./chat_ref)
-![alt text](./schéma)
+![chat_capture](./chat_capture.png)
+![chat_with_refs](./chat_ref.png)
+![schema](./schéma.png)
